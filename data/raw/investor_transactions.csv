@@ -1,0 +1,16 @@
+Transaction_ID,Date,State,City_Tier,Age_Group,Transaction_Type,Amount_Cr
+T001,2025-01-01,Maharashtra,Tier 1,25-35,SIP,450
+T002,2025-01-01,Karnataka,Tier 1,35-45,Lumpsum,700
+T003,2025-01-01,Delhi,Tier 1,45-55,Redemption,300
+T004,2025-02-01,Gujarat,Tier 2,25-35,SIP,350
+T005,2025-02-01,Tamil Nadu,Tier 1,35-45,SIP,500
+T006,2025-02-01,Rajasthan,Tier 2,45-55,Lumpsum,400
+T007,2025-03-01,Maharashtra,Tier 1,25-35,SIP,600
+T008,2025-03-01,Karnataka,Tier 1,35-45,Redemption,250
+T009,2025-03-01,West Bengal,Tier 2,55+,Lumpsum,350
+T010,2025-04-01,Delhi,Tier 1,25-35,SIP,550
+T011,2025-04-01,Gujarat,Tier 2,35-45,SIP,400
+T012,2025-04-01,Kerala,Tier 2,45-55,Lumpsum,300
+T013,2025-05-01,Maharashtra,Tier 1,35-45,SIP,650
+T014,2025-05-01,Karnataka,Tier 1,25-35,SIP,500
+T015,2025-05-01,Delhi,Tier 1,55+,Redemption,200
