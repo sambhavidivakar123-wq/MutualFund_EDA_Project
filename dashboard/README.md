@@ -118,8 +118,26 @@ Add screenshots here after saving them.
 
 ---
 
+# 📊 Power BI Dashboard
+
+## Page 1 – Dashboard Overview
+
+![Dashboard Overview](screenshots/page1_overview.png)
+
+---
+
+## Page 2 – Fund Performance Analysis
+
+![Performance Analysis](screenshots/page2_performance_analysis.png)
+
+---
+
+## Page 3 – NAV Analysis
+
+![NAV Analysis](screenshots/page3_nav_analysis.png)
+
 ## 👩‍💻 Author
 
 **Bijjam Sambhavi**
 
-Data Analytics Project using Python, SQL, and Power BI.
+Data Analytics Project using Python, SQL, and Power BI.sss
