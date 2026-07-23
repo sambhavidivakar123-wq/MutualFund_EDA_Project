@@ -184,7 +184,7 @@ The following financial metrics were calculated:
 1. Clone this repository.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/sambhavidivakar123-wq/MutualFund_EDA_Project.git
 ```
 
 2. Navigate to the project folder.
